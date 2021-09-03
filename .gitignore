@@ -1,2 +1,4 @@
 _pycache_/
 *.sqlite3
+# .env
+SECRET_KEY = 'e8e8p3m^&4srnn$g9q+$4j@%v78=gu5@($xui0ypd7_-^iqoyp'

@@ -26,3 +26,4 @@ urlpatterns = [
     path('movies/', include('movies.urls')),
     path('api/', include(movie_resource.urls))
 ]
+
